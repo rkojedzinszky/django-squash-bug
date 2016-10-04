@@ -7,8 +7,6 @@ from django.db import migrations, models
 
 class Migration(migrations.Migration):
 
-    replaces = [(b'asd', '0001_initial'), (b'asd', '0002_model1_age'), (b'asd', '0003_remove_model1_age')]
-
     initial = True
 
     dependencies = [
